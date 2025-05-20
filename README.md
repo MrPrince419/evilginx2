@@ -65,11 +65,6 @@ If you want to learn more about reverse proxy phishing, I've published extensive
 In case you want to learn how to install and use **Evilginx**, please refer to online documentation available at:
 
 https://help.evilginx.com
-
-## Support
-
-I DO NOT offer support for providing or creating phishlets. I will also NOT help you with creation of your own phishlets. Please look for ready-to-use phishlets, provided by other people.
-
 ## License
 
 **evilginx2** is made by Kuba Gretzky ([@mrgretzky](https://twitter.com/mrgretzky)) and it's released under BSD-3 license.
